@@ -14,12 +14,5 @@ public class AppHandiAcces {
 	        System.out.println("Je vous déconseille cet endroit, car le lieu indique qu'il n'y a pas de toilettes adaptées.");
 	    }
 
-        // Tester la méthode isToilettesAdap (Retourne un boolean)
-        System.out.println("Test 1 - Restaurant avec toilettes adaptées:");
-        boolean result = restaurant1.isToilettesAdap();
-        System.out.println("Les toilettes sont adaptées : " + result);
-		
-
-	}
 
 }
